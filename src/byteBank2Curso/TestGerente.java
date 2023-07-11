@@ -6,7 +6,7 @@ public class TestGerente {
 		gerente.setClave("clave secreta");
 		//gerente.setTipo(1);
 		
-		System.out.println(gerente.getBonificaion());
+		System.out.println(gerente.getBonificacion());
 		System.out.println(gerente.iniciarSesion("clave secreta"));
 	}
 }

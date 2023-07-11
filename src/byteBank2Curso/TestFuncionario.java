@@ -1,7 +1,7 @@
 package byteBank2Curso;
 public class TestFuncionario {
 	public static void main(String[] args) {
-		Funcionario diego = new Funcionario();
+		Funcionario diego = new Contador();
 		diego.setNombre("Diego");
 		diego.setDocumento("4455667788");
 		diego.setSalario(2000);
